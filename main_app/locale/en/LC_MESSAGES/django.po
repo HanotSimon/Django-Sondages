@@ -1,0 +1,408 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-03 09:51-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\main_app\templates\main_app\about.html:4
+#: .\main_app\templates\main_app\base.html:22
+msgid "À propos"
+msgstr "About"
+
+#: .\main_app\templates\main_app\about.html:10
+msgid "À propos de nous"
+msgstr "About us"
+
+#: .\main_app\templates\main_app\about.html:11
+msgid "Bienvenue sur"
+msgstr "Welcome to"
+
+#: .\main_app\templates\main_app\about.html:11
+msgid "notre site de sondages"
+msgstr "our survey site"
+
+#: .\main_app\templates\main_app\about.html:12
+msgid ""
+"Notre objectif est de vous permettre de participer facilement à des sondages "
+"en ligne, de manière simple et intuitive."
+msgstr ""
+"Our goal is to make it easy for you to participate in online surveys in a "
+"simple and intuitive way."
+
+#: .\main_app\templates\main_app\about.html:13
+msgid ""
+"Nous croyons que chaque avis compte et nous espérons que notre plateforme "
+"vous sera utile pour partager vos idées."
+msgstr ""
+"We believe every opinion matters and hope our platform helps you share your "
+"ideas."
+
+#: .\main_app\templates\main_app\about.html:15
+msgid ""
+"Pour toute question ou suggestion, n’hésitez pas à nous <a href=\"/"
+"contact\">contacter</a>."
+msgstr ""
+"For any questions or suggestions, do not hesitate to <a href=\"/"
+"contact\">contact us</a>."
+
+#: .\main_app\templates\main_app\about.html:19
+msgid "Sondage en ligne"
+msgstr "Online survey"
+
+#: .\main_app\templates\main_app\account.html:5
+#: .\main_app\templates\main_app\account.html:9
+msgid "Gérer mon compte"
+msgstr "Manage my account"
+
+#: .\main_app\templates\main_app\account.html:13
+#: .\main_app\templates\main_app\question_list.html:13
+msgid "Connecté en tant que "
+msgstr "Connected as"
+
+#: .\main_app\templates\main_app\account.html:22
+msgid "Modifier mes informations"
+msgstr "Edit my information"
+
+#: .\main_app\templates\main_app\account.html:46
+msgid "Enregistrer"
+msgstr "Save"
+
+#: .\main_app\templates\main_app\account.html:56
+msgid "Changer mon mot de passe"
+msgstr "Change my password"
+
+#: .\main_app\templates\main_app\account.html:80
+msgid "Changer le mot de passe"
+msgstr "Change password"
+
+#: .\main_app\templates\main_app\add_choice.html:4
+#: .\main_app\templates\main_app\question_form.html:43
+msgid "Ajouter un choix"
+msgstr "Add a choice"
+
+#: .\main_app\templates\main_app\add_choice.html:9
+msgid "Ajouter un choix à : "
+msgstr "Add a choice to : "
+
+#: .\main_app\templates\main_app\add_choice.html:15
+msgid "Ajouter"
+msgstr "Add"
+
+#: .\main_app\templates\main_app\add_choice.html:20
+msgid "← Retour à la modification du sondage"
+msgstr "← Back to editing the survey"
+
+#: .\main_app\templates\main_app\base.html:7
+msgid "Mon sondage"
+msgstr "My Survey"
+
+#: .\main_app\templates\main_app\base.html:14
+msgid "Sondage"
+msgstr "Survey"
+
+#: .\main_app\templates\main_app\base.html:18
+#: .\main_app\templates\main_app\home.html:4
+msgid "Accueil"
+msgstr "Home"
+
+#: .\main_app\templates\main_app\base.html:25
+#: .\main_app\templates\main_app\contact.html:7
+msgid "Contactez-nous"
+msgstr "Contact us"
+
+#: .\main_app\templates\main_app\base.html:28
+#: .\main_app\templates\main_app\login.html:44
+msgid "Se connecter"
+msgstr "Log in"
+
+#: .\main_app\templates\main_app\base.html:31
+#: .\main_app\templates\main_app\register.html:43
+msgid "S'inscrire"
+msgstr "Sign up"
+
+#: .\main_app\templates\main_app\base.html:35
+msgid "Mes sondages"
+msgstr "My surveys"
+
+#: .\main_app\templates\main_app\base.html:38
+msgid "Mon compte"
+msgstr "My account"
+
+#: .\main_app\templates\main_app\base.html:43
+msgid "Gestion des comptes"
+msgstr "Manage accounts"
+
+#: .\main_app\templates\main_app\base.html:49
+msgid "Se déconnecter"
+msgstr "Log out"
+
+#: .\main_app\templates\main_app\contact.html:4
+msgid "Contact"
+msgstr "Contact"
+
+#: .\main_app\templates\main_app\contact.html:27
+msgid "Envoyer"
+msgstr "Send"
+
+#: .\main_app\templates\main_app\delete_users.html:4
+msgid "Supprimer un utilisateur"
+msgstr "Delete a user"
+
+#: .\main_app\templates\main_app\delete_users.html:13
+msgid "Supprimer des utilisateurs"
+msgstr "Delete users"
+
+#: .\main_app\templates\main_app\delete_users.html:20
+#, python-format
+msgid "Supprimer %(username)s ?"
+msgstr "Delete %(username)s?"
+
+#: .\main_app\templates\main_app\delete_users.html:23
+#: .\main_app\templates\main_app\question_form.html:35
+#: .\main_app\templates\main_app\question_list.html:37
+msgid "Supprimer"
+msgstr "Delete"
+
+#: .\main_app\templates\main_app\delete_users.html:30
+msgid "Aucun utilisateur à afficher."
+msgstr "No users to display."
+
+#: .\main_app\templates\main_app\home.html:8
+msgid "Bienvenue"
+msgstr "Welcome"
+
+#: .\main_app\templates\main_app\home.html:12
+msgid "Trier par :"
+msgstr "Sort by:"
+
+#: .\main_app\templates\main_app\home.html:16
+msgid "Nom ↑"
+msgstr "Name ↑"
+
+#: .\main_app\templates\main_app\home.html:18
+msgid "Nom ↓"
+msgstr "Name ↓"
+
+#: .\main_app\templates\main_app\home.html:20
+#: .\main_app\templates\main_app\question_detail.html:19
+#: .\main_app\templates\main_app\question_detail_admin.html:26
+msgid "Nom"
+msgstr "Name"
+
+#: .\main_app\templates\main_app\home.html:25
+msgid "Date ↑"
+msgstr "Date ↑"
+
+#: .\main_app\templates\main_app\home.html:27
+msgid "Date ↓"
+msgstr "Date ↓"
+
+#: .\main_app\templates\main_app\home.html:29
+msgid "Date"
+msgstr "Date"
+
+#: .\main_app\templates\main_app\home.html:34
+msgid "Réponses ↑"
+msgstr "Responses ↑"
+
+#: .\main_app\templates\main_app\home.html:36
+msgid "Réponses ↓"
+msgstr "Responses ↓"
+
+#: .\main_app\templates\main_app\home.html:38
+msgid "Réponses"
+msgstr "Responses"
+
+#: .\main_app\templates\main_app\home.html:42
+#: .\main_app\templates\main_app\question_list.html:4
+#: .\main_app\templates\main_app\question_list.html:8
+msgid "Liste des sondages"
+msgstr "Survey list"
+
+#: .\main_app\templates\main_app\home.html:51
+#, python-format
+msgid "Publié le %(question.pub_date|date:\"d/m/Y H:i\")s"
+msgstr "Published on %(question.pub_date|date:\"d/m/Y H:i\")s"
+
+#: .\main_app\templates\main_app\home.html:52
+msgid "réponse"
+msgid_plural "réponses"
+msgstr[0] "response"
+msgstr[1] "responses"
+
+#: .\main_app\templates\main_app\home.html:53
+msgid "Voir le sondage"
+msgstr "View survey"
+
+#: .\main_app\templates\main_app\home.html:60
+msgid "Aucun sondage disponible pour le moment."
+msgstr "No surveys available at the moment."
+
+#: .\main_app\templates\main_app\home.html:67
+#: .\main_app\templates\main_app\home.html:71
+msgid "Précédent"
+msgstr "Previous"
+
+#: .\main_app\templates\main_app\home.html:85
+#: .\main_app\templates\main_app\home.html:89
+msgid "Suivant"
+msgstr "Next"
+
+#: .\main_app\templates\main_app\login.html:4
+#: .\main_app\templates\main_app\login.html:7
+#: .\main_app\templates\main_app\register.html:47
+msgid "Connexion"
+msgstr "Login"
+
+#: .\main_app\templates\main_app\login.html:21
+msgid "Nom d'utilisateur"
+msgstr "Username"
+
+#: .\main_app\templates\main_app\login.html:33
+msgid "Mot de passe"
+msgstr "Password"
+
+#: .\main_app\templates\main_app\login.html:48
+msgid "Pas encore de compte ?"
+msgstr "No account yet?"
+
+#: .\main_app\templates\main_app\login.html:48
+#: .\main_app\templates\main_app\register.html:8
+msgid "Créer un compte"
+msgstr "Create an account"
+
+#: .\main_app\templates\main_app\question_detail.html:11
+#: .\main_app\templates\main_app\question_detail_admin.html:14
+msgid "Publié le"
+msgstr "Published on"
+
+#: .\main_app\templates\main_app\question_detail.html:28
+#: .\main_app\templates\main_app\question_detail_admin.html:27
+msgid "Email"
+msgstr "Email"
+
+#: .\main_app\templates\main_app\question_detail.html:37
+msgid "Votre réponse"
+msgstr "Your answer"
+
+#: .\main_app\templates\main_app\question_detail.html:46
+#: .\main_app\templates\main_app\question_detail_admin.html:30
+msgid "Centres d'intérêt"
+msgstr "Interests"
+
+#: .\main_app\templates\main_app\question_detail.html:62
+msgid "Photo (optionnel)"
+msgstr "Photo (optional)"
+
+#: .\main_app\templates\main_app\question_detail.html:70
+msgid "Soumettre ma réponse"
+msgstr "Submit my answer"
+
+#: .\main_app\templates\main_app\question_detail_admin.html:4
+msgid "Résultats"
+msgstr "Results"
+
+#: .\main_app\templates\main_app\question_detail_admin.html:12
+msgid "Résultats du sondage"
+msgstr "Survey results"
+
+#: .\main_app\templates\main_app\question_detail_admin.html:17
+msgid "Retour à l'accueil"
+msgstr "Back to home"
+
+#: .\main_app\templates\main_app\question_detail_admin.html:28
+#: .\main_app\templates\main_app\question_detail_admin.html:40
+msgid "Image"
+msgstr "Image"
+
+#: .\main_app\templates\main_app\question_detail_admin.html:29
+msgid "Réponse"
+msgstr "Answer"
+
+#: .\main_app\templates\main_app\question_detail_admin.html:37
+msgid "-"
+msgstr "-"
+
+#: .\main_app\templates\main_app\question_detail_admin.html:42
+msgid "Aucune"
+msgstr "None"
+
+#: .\main_app\templates\main_app\question_detail_admin.html:52
+msgid "Aucun"
+msgstr "None"
+
+#: .\main_app\templates\main_app\question_detail_admin.html:62
+msgid "Aucune réponse n'a encore été soumise pour ce sondage."
+msgstr "No responses have been submitted for this survey yet."
+
+#: .\main_app\templates\main_app\question_form.html:6
+#: .\main_app\templates\main_app\question_list.html:36
+msgid "Modifier"
+msgstr "Edit"
+
+#: .\main_app\templates\main_app\question_form.html:8
+#: .\main_app\templates\main_app\question_form.html:22
+msgid "Créer"
+msgstr "Create"
+
+#: .\main_app\templates\main_app\question_form.html:10
+msgid " un sondage"
+msgstr " a survey"
+
+#: .\main_app\templates\main_app\question_form.html:20
+msgid "Mettre à jour"
+msgstr "Update"
+
+#: .\main_app\templates\main_app\question_form.html:28
+msgid "Choix pour cette question"
+msgstr "Choices for this question"
+
+#: .\main_app\templates\main_app\question_form.html:39
+msgid "Aucun choix pour cette question."
+msgstr "No choices for this question."
+
+#: .\main_app\templates\main_app\question_form.html:47
+msgid "Retour à la liste"
+msgstr "Back to list"
+
+#: .\main_app\templates\main_app\question_list.html:18
+msgid "Créer un nouveau sondage"
+msgstr "Create a new survey"
+
+#: .\main_app\templates\main_app\question_list.html:22
+msgid "Connectez-vous"
+msgstr "Log in"
+
+#: .\main_app\templates\main_app\question_list.html:22
+msgid "pour créer un sondage."
+msgstr "to create a survey."
+
+#: .\main_app\templates\main_app\question_list.html:31
+msgid "Créé le "
+msgstr "Created on"
+
+#: .\main_app\templates\main_app\question_list.html:42
+msgid "Aucun sondage disponible."
+msgstr "No surveys available."
+
+#: .\main_app\templates\main_app\register.html:5
+msgid "Inscription"
+msgstr "Registration"
+
+#: .\main_app\templates\main_app\register.html:47
+msgid "Déjà un compte ?"
+msgstr "Already have an account?"
